@@ -138,4 +138,4 @@ forms.forEach(form => {
     });
 });
 
-console.log('VitalGuard website loaded successfully');
+console.log('Safe Watch App website loaded successfully');
